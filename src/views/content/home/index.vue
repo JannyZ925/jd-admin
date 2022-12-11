@@ -3,6 +3,6 @@
 
 <template>
   <main>
-    home
+    内容管理-首页
   </main>
 </template>

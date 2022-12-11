@@ -1,0 +1,5 @@
+export const CONTENT_HOME = '/content/home'
+export const CONTENT_DIALOG = '/content/dialog'
+export const GOODS = '/goods'
+export const ORDER = '/order'
+export const ABOUT = '/about'
